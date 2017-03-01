@@ -1,0 +1,13 @@
+{
+  "name": "IMusixWeb",
+  "version": "1.0.0",
+  "description": "Itunes UI in browser",
+  "main": "index.js",
+  "repository": "https://github.com/Bhuvanesh0712/IMusixWeb.git",
+  "author": "bhuvanesh0712@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
